@@ -1,17 +1,3 @@
-﻿company,job,degree,salary_more_then_100k
-google,sale exective,bachelaors,0
-google,sale exective,masters,0
-google,business manager,bachelaors,1
-google,business manager,masters,1
-google,computer programmer,bachelaors,0
-google,computer programmer,masters,1
-abc pharma,sale exective,masters,0
-abc pharma,computer programmer,bachelaors,0
-abc pharma,business manager,bachelaors,0
-abc pharma,business manager,masters,1
-facebook,sale exective,bachelaors,1
-facebook,sale exective,masters,1
-facebook,business manager,bachelaors,1
-facebook,business manager,masters,1
-facebook,computer programmer,bachelaors,1
-facebook,computer programmer,masters,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:12a8d887a469ecac7de32ce5e6a959fd028e2c2262f4ae5402b1cb29dd68263b
+size 657
